@@ -3,10 +3,10 @@ WordPress news website project with local setup.
 
 # Features
 - Latest news homepage
-- Categories: Local News, World, Sports, Entertainment
+- Categories: Local News, News Room, Entertainment, Technology, Sports
 - Sidebar: Recent posts / trending
 - Header & Footer
-- 5 Sample news posts
+- Sample news posts
 
 ## Setup Instructions
 
@@ -62,9 +62,11 @@ Start Apache and MySQL
 
 5️⃣ Open the Site in Browser
 
-Go to:
+Go to LocalHost:
 
 http://localhost/Voice-of-Truth---News/
+
+Live Demo: https://voiceoftruth.wuaze.com/
 
 
 🎉 You should see your WordPress site!
