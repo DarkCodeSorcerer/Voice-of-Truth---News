@@ -69,5 +69,6 @@ http://localhost/Voice-of-Truth---News/
 
 🎉 You should see your WordPress site!
 
-<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/99a546b7-35b1-4aea-8ae4-926e75ba2445" />
+<img width="1904" height="975" alt="image" src="https://github.com/user-attachments/assets/15c58774-1a4f-4440-8a58-356139bb0def" />
+
 
